@@ -1,0 +1,8 @@
+accelerate
+diffusers
+gradio>=4.0.0
+numpy
+torch
+safetensors
+transformers>=4.35.0
+git+https://github.com/deepseek-ai/Janus
